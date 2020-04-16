@@ -1,0 +1,6 @@
+Todo:
+
+Create a new file called "example.txt".
+Add some text.
+Save file and go to terminal.
+In terminal type: "git status".
