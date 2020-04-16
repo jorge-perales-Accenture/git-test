@@ -1,4 +1,4 @@
-Todo:
+To Do:
 
 Create a new file called "example.txt".
 Add some text.
